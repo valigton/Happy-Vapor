@@ -1,3 +1,3 @@
 # happy-vapor
 
-##Happy application build with Vapor(Swift).
+## Happy application build with Vapor(Swift).
